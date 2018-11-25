@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+
+    <item android:id="@+id/logBoard"
+        android:title="로그게시판"
+        app:showAsAction="never"/>
+
+    <item android:id="@+id/removeLog"
+        android:title="로그 지우기"
+        app:showAsAction="never"/>
+
+</menu>
